@@ -1,16 +1,22 @@
-# React + Vite
+# React Learning Playground
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+用于学习React。
 
-Currently, two official plugins are available:
+## Current Main Project
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+Weather App 保存于/weather，是自设的react学习练手项目，也是之后找工作用语介绍自己skill的portfolio。
 
-## React Compiler
+## Tech Stack
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+React、Vite、React Router、TanStack Query 和 Tailwind CSS。
 
-## Expanding the ESLint configuration
+## Run Locally
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+npm install
+npm run dev
+npm run build
+npm run preview
+
+## Project Status
+
+这是持续更新的 front-end learning repository。
