@@ -37,6 +37,7 @@ export const Weather = () => {
 
     return (
         <>
+            <h1>七天天气预报</h1>
             <label htmlFor="city">选择城市：</label>
             <select 
               id="city"
